@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Repo to learn Docker with examples. Contributions are most welcome.
 
 ## If you found this repo useful, give it a STAR 🌠
@@ -360,3 +361,7 @@ latest: digest: sha256:6e49841ad9e720a7baedcd41f9b666fcd7b583151d0763fe78101bb82
 ```
 
 ### You must be feeling like a champ already 
+=======
+# Docker-Django-Project
+A project using python-Django
+>>>>>>> 0e2db06d9e765d04e8ad14f64ea38df5d4448088
